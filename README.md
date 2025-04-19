@@ -84,6 +84,3 @@ go run main.go
 - [DiscordGo](https://github.com/bwmarrin/discordgo)
 
 ---
-```
-
-Let me know if you'd like to add a logo, some badges, or a demo video section too!
